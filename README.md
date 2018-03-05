@@ -1,4 +1,12 @@
 # 使用Git进行项目管理
-git for project management
 
+一、在eclipse中配置git账户
+二、显示git仓库的操作视图
+三、选择克隆仓库到本地
+四、输入仓库的url地址
+五、仓库克隆到本地后截图
+六、选择导入maven项目
+七、找到pom文件
+八、更新maven项目
+九、提交代码到Git
 
